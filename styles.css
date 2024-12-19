@@ -77,6 +77,10 @@ body {
   color: var(--Dark-purple);
 }
 
+.title:hover {
+    color: var(--Light-pink);
+}
+
 .description {
   color: var(--Grayish-purple);
   max-height: 0;
